@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3 {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+button {
+    margin: 1rem;
+}
+
+.recording-instructions {
+    color: red;
+}
